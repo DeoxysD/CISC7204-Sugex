@@ -1,0 +1,94 @@
+
+CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16 
+Due: Wednesday, 23 September 2026, 11:00 PM
+Learning Activity for Practice 05: All You Need to Know about Plots
+
+REMARK: This learning activity is supposed be done and submitted in your SUPPORT (HOME) UMMoodle site labelled with one of your CLASS letter (A, B, C, D, E, F, G, K, L, or M). It should NOT be done and submitted in the MAIN UMMoodle site of CISC7204. Otherwise, your score will not be counted.
+
+Introduction
+
+In this week's lecture, you learn about the following plots: a) Comparison Plots, b) Relation Plots, c) Composition Plots, d) Distribution Plots, and e) What Makes a Good Visualization? In the Learning Activity for Practice 05, you are invited to apply your learning to answer some questions from each type of plots above. by referring to the following course resources:
+
+CISC7204 Resource: All You Need to Know about Plots
+
+CISC7204 Lecture 05 PPT - Introduction to Data Visualization Plots
+
+Requirements
+
+In particular, you are required to respond to the following exercises and activities, by referring to the plotting details at CISC7204 Resource: All You Need to Know about Plots:
+
+Activity 5.01: Employee Skills Comparison
+
+You are given scores of four employees (Alex, Alice, Chris, and Jennifer) for five attributes: efficiency, quality, commitment, responsible conduct, and cooperation.
+Your task is to compare the employees and their skills. This activity will foster your skills in choosing the best visualization when it comes to comparing items.
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.01 - Your Student Name":
+
+Q5.01: Which charts are suitable for this task?
+
+Q5.02: You are given the above bar and radar charts. List the advantages and disadvantages of both charts. Which is the better chart for this task in your opinion, and why?
+
+Q5.03: What could be improved in the respective visualizations?
+
+Activity 5.02: Road Accidents Occurring over Two Decades
+
+You are given a diagram that provides information about the road accidents that have occurred over the past two decades during the months of January, April, July, and October.
+
+The aim of this activity is to understand how you can use heatmaps to visualize multivariate data.
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.02 - Your Student Name":
+
+Q5.04: Identify the two years during which the number of road accidents occurring was the least.
+
+Q5.05: For the past two decades, identify the month for which accidents showed a marked decrease.
+
+Activity 5.03: Smartphone Sales Units
+
+You want to compare smartphone sales units for the five biggest smartphone manufacturers over time and see whether there is any trend.
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.03 - Your Student Name":
+
+Q5.06: Looking at the above line chart, analyze the sales of each manufacturer and identify the one whose fourth-quarter performance is exceptional when compared to the third quarter.
+
+Q5.07: Analyze the performance of all manufacturers and make a prediction about two companies whose sales units will show a downward and an upward trend.
+
+Q5.08: What would be the advantages and disadvantages of using a stacked area chart instead of a line chart?
+
+Activity 5.04: Frequency of Trains during Different Time Intervals
+
+You are provided with a histogram that states the number of trains arriving at different time intervals in the afternoon to determine the maximum number of trains arriving in 2-hour time intervals.
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.04 - Your Student Name":
+
+Q5.09: Looking at the above histogram, can you identify the interval during which a maximum number of trains arrive?
+
+Q5.10: How would the histogram change if in the morning, the same total number of trains arrive as in the afternoon, and if you have the same frequencies for all time intervals?
+
+Activity 5.05: Analyzing Visualizations
+
+You are given a number of visualizations which are not ideal as they do not represent the data well. 
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.05 - Your Student Name":
+
+Q4.11: What are the bad aspects of these visualizations?
+
+Q4.12: How could we improve the visualizations? Sketch the right visualization for both scenarios.
+
+Activity 5.06: Choosing a Suitable Visualization
+
+In this activity, you are using a dataset to visualize the median, the interquartile ranges, and the underlying density of populations from different income groups.
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 4.06 - Your Student Name":
+
+Q4.13: Select the best suitable plot from the above plots, and explain why this is the best suitable plot.

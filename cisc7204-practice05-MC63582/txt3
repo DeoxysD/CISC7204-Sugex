@@ -1,0 +1,157 @@
+CISC7204 Resource: All You Need to Know about Plots
+Completion requirements
+All You Need to Know about Plots
+Comparison Plots
+
+Activity 5.01: Employee Skills Comparison
+
+You are given scores of four employees (Alex, Alice, Chris, and Jennifer) for five attributes: efficiency, quality, commitment, responsible conduct, and cooperation.
+Your task is to compare the employees and their skills. This activity will foster your skills in choosing the best visualization when it comes to comparing items.
+Now, consider the following charts prepared for this activity:
+
+Figure 5.1 Employee skills comparison with a bar chart
+
+Image-01
+
+Figure 5.2 Employee skills comparison with a radar chart
+
+Image-02
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.01 - Your Student Name":
+
+Q5.01: Which charts are suitable for this task?
+
+Q5.02: You are given the above bar and radar charts. List the advantages and disadvantages of both charts. Which is the better chart for this task in your opinion, and why?
+
+Q5.03: What could be improved in the respective visualizations?
+
+Relation Plots
+
+Activity 5.02: Road Accidents Occurring over Two Decades
+
+You are given a diagram that provides information about the road accidents that have occurred over the past two decades during the months of January, April, July, and October.
+
+The aim of this activity is to understand how you can use heatmaps to visualize multivariate data.
+
+Figure 5.3 Total accidents over 20 years
+
+Image-03
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.02 - Your Student Name":
+
+Q5.04: Identify the two years during which the number of road accidents occurring was the least.
+
+Q5.05: For the past two decades, identify the month for which accidents showed a marked decrease.
+
+Composition Plots
+
+Activity 5.03: Smartphone Sales Units
+
+You want to compare smartphone sales units for the five biggest smartphone manufacturers over time and see whether there is any trend.
+
+In this activity, we also want to look at the advantages and disadvantages of stacked area charts compared to line charts:
+
+Figure 5.4 Line chart of smartphone sales units
+
+Image-04
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.03 - Your Student Name":
+
+Q5.06: Looking at the above line chart, analyze the sales of each manufacturer and identify the one whose fourth-quarter performance is exceptional when compared to the third quarter.
+
+Q5.07: Analyze the performance of all manufacturers and make a prediction about two companies whose sales units will show a downward and an upward trend.
+
+Q5.08: What would be the advantages and disadvantages of using a stacked area chart instead of a line chart?
+
+Distribution Plots
+
+Activity 5.04: Frequency of Trains during Different Time Intervals
+
+You are provided with a histogram that states the number of trains arriving at different time intervals in the afternoon to determine the maximum number of trains arriving in 2-hour time intervals.
+
+The goal of this activity is to gain a deeper insight into histograms:
+
+Figure 5.5 Frequency of trains during different time intervals
+
+Image-05
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.04 - Your Student Name":
+
+Q5.09: Looking at the above histogram, can you identify the interval during which a maximum number of trains arrive?
+
+Q5.10: How would the histogram change if in the morning, the same total number of trains arrive as in the afternoon, and if you have the same frequencies for all time intervals?
+
+What Makes a Good Visualization?
+
+There are multiple aspects to what makes a good visualization:
+
+Most importantly, the visualization should be self-explanatory and visually appealing. To make it self-explanatory, use a legend, descriptive labels for your x-axis and y-axis, and titles.
+A visualization should tell a story and be designed for your audience. Before creating your visualization, think about your target audience; create simple visualizations for a non-specialist audience and more technical detailed visualizations for a specialist audience. Think about a story to tell with your visualization so that your visualization leaves an impression on the audience.
+Common Design Practices
+
+Use colors to differentiate variables/subjects rather than symbols, as colors are more perceptible.
+To show additional variables on a 2D plot, use color, shape, and size.
+Keep it simple and don’t overload the visualization with too much information.
+Activity 5.05: Analyzing Visualizations
+
+The following visualizations are not ideal as they do not represent data well.
+
+Answer the following questions for each visualization.
+
+The aim of this activity is to sharpen your skills with regard to choosing the best suitable plot for a scenario.
+
+Figure 5.6 Pie chart showing the top 30 YouTube music channels
+
+Image-06
+
+The first visualization is supposed to illustrate the top 30 YouTube music channels according to their number of subscribers:
+
+Figure 5.7 Line chart displaying casino data for 2 days
+
+Image-07
+
+The second visualization is supposed to illustrate the number of people playing a certain game in a casino over 2 days:
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.05 - Your Student Name":
+
+Q5.11: What are the bad aspects of these visualizations?
+
+Q5.12: How could we improve the visualizations? Sketch the right visualization for both scenarios.
+
+Activity 5.06: Choosing a Suitable Visualization
+
+In this activity, we are using a dataset to visualize the median, the interquartile ranges, and the underlying density of populations from different income groups.
+
+Figure 5.8 Density Plot
+
+The following diagram shows the population by different income groups using a density plot:
+
+Image-08
+
+Figure 5.9 Box Plot
+
+The following diagram shows the population by different income groups using a box plot:
+
+Image-09
+
+Figure 5.10 Violin Plot
+
+The following diagram shows the population by different income groups using a violin plot:
+
+Image-10
+
+Instructions
+
+Answer the following questions at the forum CISC7204 Personal Learning Forum of Practice 05 - Day 05 2026SEP16, by creating a topic called "My Answer to Activity 5.06 - Your Student Name":
+
+Q5.13: Select the best suitable plot from the above plots, and explain why this is the best suitable plot.

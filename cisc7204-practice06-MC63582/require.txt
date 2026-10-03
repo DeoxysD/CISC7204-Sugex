@@ -1,0 +1,50 @@
+Learning Activity for Practice 06: Identifying Misleading Visual(s)
+
+REMARK: This learning activity is supposed be done and submitted in your HOME UMMoodle site labelled with one of your CLASS letter (A, B, C, D, E, F, G, K, L, or M). It should NOT be done and submitted in the MAIN UMMoodle site of CISC7204.
+
+Instructions
+
+In this Practice activity,  you will have to locate and identify a visual that displays misleading information. You will interpret the features of the visual in order to identify the mechanism(s) that is/are used by the "encoder" to mislead the "decoder." For each mechanism that you identify, you will explain how it was used to mislead. You are free to complete this activity with the help of an AI assistant (or chatbot) of your choice.
+
+Action Steps
+
+06.01 Locate an example of a misleading visual that uses one or more of the mechanisms for misleading that Cairo outlines in his work Graphics Lies, Misleading Visuals: hiding relevant data, displaying too much data and obscuring reality, and distorting data through graphic forms.
+06.02 Upload an image of this visual in the personal forum by creating a thread named "My Mislaeding Visual Identified", with some related annotations of your findings.
+06.03 Provide, in APA style, a citation link and a reference to the source of the visual (e.g., the article in which the visual appears) in the thread created in 06.02.
+06.04 Identify and explain concisely the misleading mechanism(s) that is/are used in the visual in the thread created in 06.02.
+Hint - You may want to use google or bing image search with a parameter such as "information visualization", or "scientific poster chart" or similar in order to find visualizations to critique. You might also want to consider looking on the subreddits dataisbeautiful or dataisugly.
+
+For each of the above steps, you may instruct an AI assistant for a particular domain and then extend help to your work via a PROMPT-based conversation: You will reflect on what initially drew you to the conversation and what problems or questions you need help to accomplish.
+
+First Thing First
+
+You need to choose a generative AI (genAI) model as your discussant in the the exercise, and indicate which AI model you have used at the end of your conversation.
+To work on an exercise in the AI conversational practice, you must get familiar with the following steps:
+
+Name the chat: Use any available tool (if any) to name the chat.
+Choose the model: Use the dropdown option (if any) to choose an AI model (if any).
+Give prompt instructions: Use the Prompt Instructions field from the chat system to write (prompts) instructions or any specific details about the conversation context.
+Conclude your conversation: Create a pdf document to capture what you ask AI for help and what result(s) AI has completed for your needs.
+In this Practice activity, you could explore the use of Google's Gemini, Microsoft's Copilot, or any genAI models made available from UM at genai – University of Macau. Please note that students need to complete a short online module and pass a short quiz before signing in at UM genAI is allowed. Student should also pay attention to the UM Guidelines on the Use of Generative Artificial Intelligence Tools.
+
+Discussion Resources
+
+CISC7204 Resource: Basic Principles for Data Visualization
+Article: Graphics Lies, Misleading Visuals
+Related Videos
+Graphics Lies, Misleading Visuals - by Caleb Trujillo (25.57 min)
+Misleading Beyond Visual Tricks: How People Actually Lie with Charts - by ACM SIGCHI (8.31 min)
+How to spot a misleading graph - Lea Gaslowitz (4.09 min)
+Misleading Graphs - Corbettmaths (10.28 min)
+Misleading Graphs Answers - Corbettmaths (20.08 min)
+Requirements
+
+Please show your discussion details in the Practice activity at: CISC7204 Personal Learning Forum of Practice 06 - Day 06 2026SEP23.
+Please upload a document in pdf form, your conversation(s) with your AI Assistant into the thread "My Mislaeding Visual Identified", so that a download link is made available such that your audience can examine all the discussion details from the related AI model as evidence of your seeking AI help to complete your work.
+Please provide an AI declaration to wrap up your work at the end of your forum thread: e.g.,
+Declaration of AI Usage - Student ID + Student Full Name
+
+Did I use an AI LLM? Yes
+Exact LLM used: Gemini-3-Pro
+Web Browser used: Google Chrome at Poe.com
+Please heed the deadline of 2026 September 30 11:00 pm to complete your learning activity for this Practice 06: Identifying Misleading Visual(s).

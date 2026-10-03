@@ -1,0 +1,94 @@
+CISC7204 Suggested Exercise 06 for Week 06
+Completion requirements
+REMARK: Suggested Exercises are optional for completion - your completion before the designated deadline will be counted into bonus score by the end of the semester. Meanwhile, attempting the Suggested Exercises should prepare you for the next round of coursework challenges in the semester. Indeed, completing this suggested exercise is essential if you plan to stay on course to your success in this semester. This suggested exercise must be done and submitted in your SUPPORT UMMoodle site labelled with one of your CLASS letter (A, B, C, D, E, F, G, K, L, or M). It should NOT be done and submitted in the MAIN UMMoodle site of CISC7204: otherwise, ZERO score will be counted.
+
+Instructions
+
+If you choose to complete this Suggested Exercise 06 (a bonus work), you have to complete this exercise and submit your work on or before 11:00 pm of the Sunday on 2026OCT04.
+
+Use Jupyter Notebook for Python 3 via the Anaconda Personal Edition in your computer to complete the following from the Suggested Resources below:
+
+Review the Python Basics from W3School's Python Tutorial, 
+Review the NumPy Basics from NumPy Tutorial (w3schools.com)
+Review the Pandas Basics from Pandas Tutorial (w3schools.com)
+Review the Matplotlib Basics from Matplotlib Tutorial (w3schools.com)
+Complete the Python programs from last week's three tutorials in learning Matplotlib, and from this week's two tutorials in learning Seaborn:
+CISC7204 Tutorial 06-01 Notes: Matplotlib Basics 1 of 3
+CISC7204 Tutorial 06-01 Notes: Matplotlib Basics 2 of 3
+CISC7204 Tutorial 06-03 Notes: Matplotlib Basics 3 of 3
+Show screen shots of your completed notebooks in the related forum thread indicated
+Submit your completed notebooks at the link below:
+CISC7204 Submission Link for Suggested Exercise 06 - Due on 2026OCT04 11:00 pm
+Please put all your Jupyter notebooks in a folder, and zip the folder with the name "CISC3015-SugEx06-StudentID.zip", and submit your zipped file at the submission link.
+Practice 01
+
+Requirements
+
+Create three threads as named below at CISC7204 Personal Forum of Suggested Exercise 06:
+My Work of Practice 01 "Exercise6.01.ipynb" - Suggested Exercise 06
+My Work of Practice 01 "Activity6.01.ipynb" - Suggested Exercise 06
+My Work of Practice 01 "Activity6.02.ipynb" - Suggested Exercise 06
+Show as evidence of your work in Practice 01, under each of the above threads the following items:
+Screen shot of your Jupyter Notebook folder for Suggested Exercise 06
+Screen shot(s) of your Jupyter Notebook for Practice 01 including various steps to complete respectively "Exercise6.01.ipynb", "Activity6.01.ipynb", and "Activity6.02.ipynb"
+Your downloadable Python programs (in .ipynb) for Practice 01 
+You need to rename your completed "Exercise6.01.ipynb" as "StudentID_Exercise6.01.ipynb" where StudentID is your UM student ID
+You need to rename your completed "Activity6.01.ipynb" as "StudentID_Activity6.01.ipynb" where StudentID is your UM student ID
+You need to rename your completed "Activity6.02.ipynb" as "StudentID_Activity6.02.ipynb" where StudentID is your UM student ID
+Suggested Resources
+
+You need to complete Practice 01 using CISC3015 Tutorial 06-01 Notes: Matplotlib Basics 1 of 3
+You need to complete "Exercise6.01.ipynb", "Activity6.01.ipynb", and "Activity6.02.ipynb".
+Practice 02
+
+Requirements
+
+Create four threads as named below at CISC7204 Personal Forum of Suggested Exercise 06:
+My Work of Practice 02 "Exercise6.02.ipynb" - Suggested Exercise 06
+My Work of Practice 02 "Activity6.03.ipynb" - Suggested Exercise 06
+My Work of Practice 02 "Activity6.04.ipynb" - Suggested Exercise 06
+My Work of Practice 02 "Activity6.05.ipynb" - Suggested Exercise 06
+Show as evidence of your work in Practice 02, under each of the above threads the following items:
+Screen shot of your Jupyter Notebook folder for Suggested Exercise 06
+Screen shot(s) of your Jupyter Notebook for Practice 02 including various steps to complete respectively "Exercise6.02.ipynb", "Activity6.03.ipynb", "Activity6.04.ipynb" and "Activity6.05.ipynb"
+Your downloadable Python programs (in .ipynb) for Practice 02 
+You need to rename your completed "Exercise6.02.ipynb" as "StudentID_Exercise6.02.ipynb" where StudentID is your UM student ID
+You need to rename your completed "Activity6.03.ipynb" as "StudentID_Activity6.03.ipynb" where StudentID is your UM student ID
+You need to rename your completed "Activity6.04.ipynb" as "StudentID_Activity6.04.ipynb" where StudentID is your UM student ID
+You need to rename your completed "Activity6.05.ipynb" as "StudentID_Activity6.05.ipynb" where StudentID is your UM student ID
+Suggested Resources
+
+You need to complete Practice 02 using CISC7204 Tutorial 06-01 Notes: Matplotlib Basics 2 of 3
+You need to complete "Exercise6.02.ipynb", "Activity6.03.ipynb", "Activity6.04.ipynb", and "Activity6.05.ipynb".
+Practice 03
+
+Requirements
+
+Create four threads as named below at CISC7204 Personal Forum of Suggested Exercise 06:
+My Work of Practice 03 "Exercise6.03.ipynb" - Suggested Exercise 06
+My Work of Practice 03 "Exercise6.04.ipynb" - Suggested Exercise 06
+My Work of Practice 03 "Activity6.06.ipynb" - Suggested Exercise 06
+My Work of Practice 03 "Activity6.07.ipynb" - Suggested Exercise 06
+Show as evidence of your work in Practice 03, under each of the above threads the following items:
+Screen shot of your Jupyter Notebook folder for Suggested Exercise 06
+Screen shot(s) of your Jupyter Notebook for Practice 03 including various steps to complete respectively "Exercise6.03.ipynb", "Exercise6.04.ipynb", "Activity6.06.ipynb" and "Activity6.07.ipynb"
+Your downloadable Python programs (in .ipynb) for Practice 03 
+You need to rename your completed "Exercise6.03.ipynb" as "StudentID_Exercise6.03.ipynb" where StudentID is your UM student ID
+You need to rename your completed "Exercise6.04.ipynb" as "StudentID_Exercise6.04.ipynb" where StudentID is your UM student ID
+You need to rename your completed "Activity6.06.ipynb" as "StudentID_Activity6.06.ipynb" where StudentID is your UM student ID
+You need to rename your completed "Activity6.07.ipynb" as "StudentID_Activity6.07.ipynb" where StudentID is your UM student ID
+Suggested Resources
+
+You need to complete Practice 03 using CISC7204 Tutorial 06-03 Notes: Matplotlib Basics 3 of 3
+You need to complete "Exercise6.03.ipynb", "Exercise6.04.ipynb", "Activity6.06.ipynb", and "Activity6.07.ipynb".
+Submission Requirements
+
+1) Create a folder in your computer and name it as "cisc7204_sugex06_YourStudentID"
+
+2) Create three subfolders inside the folder from (1), and name them respectively as "P1_folder", "P2_folder", and "P3_folder". Under each folder, create two sub-folders respectively called "Screen Shots" and "Jupyter Notebooks".
+
+3) Put the screen shots and Jupyter notebooks from Practices (1 - 3), respectively into the two subfolders of each of the three folders with the designated names above.
+
+4) Zip the folder "cisc7204_sugex06_YourStudentID" into a zipped file with ".zip" as its extension.
+
+5) Submit your zipped file at CISC7204 Submission Link for Suggested Exercise 06 - Due on 2026OCT04 11:00 pm before the deadline.
